@@ -15,3 +15,9 @@ python3 server.py <ip> <port> <max clients>
 ```
 
 ## Client
+
+### Command usage
+
+```sh
+python3 client.py <ip> <port>
+```
